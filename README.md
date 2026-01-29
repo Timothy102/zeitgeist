@@ -7,7 +7,9 @@ Zeitgeist researches what's happening across Reddit and X — the conversations,
 ## Install
 
 ```bash
-git clone https://github.com/jacksoncorey/zeitgeist.git ~/.claude/skills/zeitgeist
+git clone https://github.com/Timothy102/zeitgeist.git
+cd zeitgeist
+./install.sh
 ```
 
 ## Usage
